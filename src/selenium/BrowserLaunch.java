@@ -62,6 +62,10 @@ System.out.println("z");
 		System.out.println("123");
 
 	}
+	private void add() {
+		System.out.println("add");
+
+	}
 
 
 }
