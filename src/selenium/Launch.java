@@ -44,5 +44,15 @@ public class Launch {
 		Assert.assertTrue(false);
 		System.out.println("D");
 	}
-
+	
+	@Test
+	public void eTest() {
+		// TODO Auto-generated method stub
+		Assert.assertTrue(true);
+		Assert.assertTrue(true);
+		Assert.assertTrue(true);
+		System.out.println("D");
+	}
+	
+		
 }
