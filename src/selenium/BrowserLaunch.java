@@ -58,7 +58,10 @@ System.out.println("z");
 		System.out.println("b");
 
 	}
-	
+	private void sysout() {
+		System.out.println("123");
+
+	}
 
 
 }
